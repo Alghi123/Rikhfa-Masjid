@@ -1,6 +1,6 @@
 {
   "version_code": 5,
   "version_name": "3.2",
-  "download_url": "https://github.com/Alghi123/Rikhfa-Masjid/releases/download/v3.2/Rikhfa.Masjid.3.2.apk",
+  "download_url": "https://github.com/Alghi123/Rikhfa-Masjid/releases/download/3.2/Rikhfa.Masjid.3.2.apk",
   "release_notes": "1. Pengoptimalan untuk perangkat Offline.\n2. Clock Safe membantu jam tetap terjaga selisihnya jika jam perangkat kacau.\n3. Menambahkan fitur setting langsung jam di APK dengan menekan tombol kanan di remote 5x.\n4. Penyesuaian aplikasi agar terintegrasi dengan perangkat RTC dan Relay.\n5. Fixing tampilan layout dibeberapa layar TV.\n\nHUBUNGI ADMIN JIKA ADA KENDALA WA 089648364519"
 }
